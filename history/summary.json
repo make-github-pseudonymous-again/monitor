@@ -5,7 +5,7 @@
     "slug": "personal-homepage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 739
+    "time": 756
   },
   {
     "name": "Academic Homepage",
@@ -13,6 +13,22 @@
     "slug": "academic-homepage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 906
+    "time": 916
+  },
+  {
+    "name": "Blog",
+    "url": "https://blog.aurelienooms.be",
+    "slug": "blog",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 903
+  },
+  {
+    "name": "Math Blog",
+    "url": "https://math.aurelienooms.be",
+    "slug": "math-blog",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 895
   }
 ]
