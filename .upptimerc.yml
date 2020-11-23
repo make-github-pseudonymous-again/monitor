@@ -6,6 +6,10 @@ sites:
     url: https://aurelienooms.be
   - name: Academic Homepage
     url: https://research.aurelienooms.be
+  - name: Blog
+    url: https://blog.aurelienooms.be
+  - name: Math Blog
+    url: https://math.aurelienooms.be
 
 status-website:
   baseUrl: /monitor
