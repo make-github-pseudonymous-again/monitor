@@ -19,6 +19,6 @@ status-website:
   introMessage: No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
     - title: Status
-      href: /
+      href: /monitor
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
