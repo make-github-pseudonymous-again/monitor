@@ -5,7 +5,7 @@
     "slug": "personal-homepage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 731
+    "time": 730
   },
   {
     "name": "Academic Homepage",
@@ -13,7 +13,7 @@
     "slug": "academic-homepage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 941
+    "time": 915
   },
   {
     "name": "Blog",
@@ -21,7 +21,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 811
+    "time": 785
   },
   {
     "name": "Math Blog",
@@ -29,6 +29,6 @@
     "slug": "math-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 891
+    "time": 855
   }
 ]
