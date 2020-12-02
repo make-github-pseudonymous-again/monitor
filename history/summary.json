@@ -3,25 +3,25 @@
     "name": "Personal Homepage",
     "url": "https://aurelienooms.be",
     "slug": "personal-homepage",
-    "status": "down",
-    "uptime": "99.99%",
-    "time": 665
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 668
   },
   {
     "name": "Academic Homepage",
     "url": "https://research.aurelienooms.be",
     "slug": "academic-homepage",
-    "status": "down",
-    "uptime": "99.99%",
-    "time": 847
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 856
   },
   {
     "name": "Blog",
     "url": "https://blog.aurelienooms.be",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 720
+    "time": 727
   },
   {
     "name": "Math Blog",
