@@ -2,6 +2,7 @@
   {
     "name": "Personal Homepage",
     "url": "https://aurelienooms.be",
+    "icon": "https://favicons.githubusercontent.com/aurelienooms.be",
     "slug": "personal-homepage",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 725,
-    "timeDay": 599,
-    "timeWeek": 719,
-    "timeMonth": 725,
-    "timeYear": 725
+    "time": 721,
+    "timeDay": 641,
+    "timeWeek": 711,
+    "timeMonth": 721,
+    "timeYear": 721,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Academic Homepage",
     "url": "https://research.aurelienooms.be",
+    "icon": "https://favicons.githubusercontent.com/research.aurelienooms.be",
     "slug": "academic-homepage",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 920,
-    "timeDay": 776,
-    "timeWeek": 924,
-    "timeMonth": 920,
-    "timeYear": 920
+    "time": 918,
+    "timeDay": 894,
+    "timeWeek": 907,
+    "timeMonth": 918,
+    "timeYear": 918,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
     "url": "https://blog.aurelienooms.be",
+    "icon": "https://favicons.githubusercontent.com/blog.aurelienooms.be",
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 805,
-    "timeDay": 991,
-    "timeWeek": 825,
-    "timeMonth": 805,
-    "timeYear": 805
+    "time": 799,
+    "timeDay": 688,
+    "timeWeek": 798,
+    "timeMonth": 799,
+    "timeYear": 799,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Math Blog",
     "url": "https://math.aurelienooms.be",
+    "icon": "https://favicons.githubusercontent.com/math.aurelienooms.be",
     "slug": "math-blog",
     "status": "up",
     "uptime": "100.00%",
@@ -57,10 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 817,
-    "timeDay": 781,
-    "timeWeek": 772,
-    "timeMonth": 817,
-    "timeYear": 817
+    "time": 809,
+    "timeDay": 697,
+    "timeWeek": 740,
+    "timeMonth": 809,
+    "timeYear": 809,
+    "dailyMinutesDown": {}
   }
 ]
