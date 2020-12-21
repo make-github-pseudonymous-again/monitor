@@ -4,71 +4,79 @@
     "url": "https://aurelienooms.be",
     "icon": "https://favicons.githubusercontent.com/aurelienooms.be",
     "slug": "personal-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 684,
-    "timeDay": 650,
-    "timeWeek": 643,
+    "timeDay": 689,
+    "timeWeek": 655,
     "timeMonth": 684,
     "timeYear": 684,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-21": 2
+    }
   },
   {
     "name": "Academic Homepage",
     "url": "https://research.aurelienooms.be",
     "icon": "https://favicons.githubusercontent.com/research.aurelienooms.be",
     "slug": "academic-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 881,
-    "timeDay": 682,
-    "timeWeek": 794,
-    "timeMonth": 881,
-    "timeYear": 881,
-    "dailyMinutesDown": {}
+    "time": 880,
+    "timeDay": 849,
+    "timeWeek": 802,
+    "timeMonth": 880,
+    "timeYear": 880,
+    "dailyMinutesDown": {
+      "2020-12-21": 1
+    }
   },
   {
     "name": "Blog",
     "url": "https://blog.aurelienooms.be",
     "icon": "https://favicons.githubusercontent.com/blog.aurelienooms.be",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 765,
-    "timeDay": 756,
-    "timeWeek": 714,
-    "timeMonth": 765,
-    "timeYear": 765,
-    "dailyMinutesDown": {}
+    "time": 766,
+    "timeDay": 776,
+    "timeWeek": 715,
+    "timeMonth": 766,
+    "timeYear": 766,
+    "dailyMinutesDown": {
+      "2020-12-21": 1
+    }
   },
   {
     "name": "Math Blog",
     "url": "https://math.aurelienooms.be",
     "icon": "https://favicons.githubusercontent.com/math.aurelienooms.be",
     "slug": "math-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 748,
-    "timeDay": 511,
-    "timeWeek": 676,
+    "timeDay": 775,
+    "timeWeek": 675,
     "timeMonth": 748,
     "timeYear": 748,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-21": 0
+    }
   }
 ]
