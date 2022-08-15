@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/aurelienooms.be",
     "slug": "personal-homepage",
     "status": "up",
-    "uptime": "92.22%",
-    "uptimeDay": "98.86%",
+    "uptime": "92.23%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "91.58%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "91.86%",
     "time": 764,
-    "timeDay": 730,
-    "timeWeek": 794,
-    "timeMonth": 722,
-    "timeYear": 771,
+    "timeDay": 853,
+    "timeWeek": 792,
+    "timeMonth": 721,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2022-08-13": 16,
       "2022-07-20": 34,
@@ -77,8 +77,7 @@
       "2021-08-19": 514,
       "2021-08-18": 1440,
       "2021-08-17": 71,
-      "2021-08-16": 1289,
-      "2021-08-15": 1440
+      "2021-08-16": 1289
     }
   },
   {
@@ -87,16 +86,16 @@
     "icon": "https://favicons.githubusercontent.com/research.aurelienooms.be",
     "slug": "academic-homepage",
     "status": "up",
-    "uptime": "92.24%",
-    "uptimeDay": "98.89%",
+    "uptime": "92.25%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "91.62%",
-    "time": 1077,
-    "timeDay": 1029,
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "91.89%",
+    "time": 1078,
+    "timeDay": 1374,
     "timeWeek": 1140,
-    "timeMonth": 1096,
-    "timeYear": 1081,
+    "timeMonth": 1095,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2022-08-13": 16,
       "2022-07-20": 33,
@@ -156,8 +155,7 @@
       "2021-08-19": 513,
       "2021-08-18": 1440,
       "2021-08-17": 70,
-      "2021-08-16": 1289,
-      "2021-08-15": 1440
+      "2021-08-16": 1289
     }
   },
   {
@@ -166,16 +164,16 @@
     "icon": "https://favicons.githubusercontent.com/blog.aurelienooms.be",
     "slug": "blog",
     "status": "up",
-    "uptime": "92.25%",
-    "uptimeDay": "98.93%",
+    "uptime": "92.26%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "91.64%",
-    "time": 923,
-    "timeDay": 1111,
-    "timeWeek": 1005,
-    "timeMonth": 929,
-    "timeYear": 939,
+    "uptimeYear": "91.92%",
+    "time": 924,
+    "timeDay": 989,
+    "timeWeek": 966,
+    "timeMonth": 925,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2022-08-13": 15,
       "2022-07-20": 33,
@@ -232,8 +230,7 @@
       "2021-08-19": 513,
       "2021-08-18": 1440,
       "2021-08-17": 70,
-      "2021-08-16": 1289,
-      "2021-08-15": 1440
+      "2021-08-16": 1289
     }
   },
   {
@@ -242,14 +239,14 @@
     "icon": "https://favicons.githubusercontent.com/math.aurelienooms.be",
     "slug": "math-blog",
     "status": "up",
-    "uptime": "92.26%",
+    "uptime": "92.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "91.66%",
+    "uptimeYear": "91.93%",
     "time": 898,
-    "timeDay": 836,
-    "timeWeek": 899,
+    "timeDay": 1007,
+    "timeWeek": 869,
     "timeMonth": 872,
     "timeYear": 900,
     "dailyMinutesDown": {
@@ -306,8 +303,7 @@
       "2021-08-19": 513,
       "2021-08-18": 1440,
       "2021-08-17": 69,
-      "2021-08-16": 1289,
-      "2021-08-15": 1440
+      "2021-08-16": 1289
     }
   }
 ]
