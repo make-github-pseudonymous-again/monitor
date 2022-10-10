@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/aurelienooms.be.ico",
     "slug": "personal-homepage",
     "status": "up",
-    "uptime": "92.85%",
+    "uptime": "92.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.16%",
-    "time": 786,
-    "timeDay": 582,
-    "timeWeek": 670,
-    "timeMonth": 1078,
-    "timeYear": 798,
+    "uptimeYear": "99.21%",
+    "time": 787,
+    "timeDay": 952,
+    "timeWeek": 686,
+    "timeMonth": 1054,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2022-09-11": 20,
       "2022-08-31": 89,
@@ -39,8 +39,7 @@
       "2021-10-18": 99,
       "2021-10-13": 54,
       "2021-10-12": 538,
-      "2021-10-11": 581,
-      "2021-10-10": 677
+      "2021-10-11": 581
     }
   },
   {
@@ -49,15 +48,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/research.aurelienooms.be.ico",
     "slug": "academic-homepage",
     "status": "up",
-    "uptime": "92.86%",
+    "uptime": "92.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.25%",
     "time": 1081,
-    "timeDay": 836,
-    "timeWeek": 1068,
-    "timeMonth": 1077,
+    "timeDay": 1153,
+    "timeWeek": 1041,
+    "timeMonth": 1084,
     "timeYear": 1083,
     "dailyMinutesDown": {
       "2022-08-31": 89,
@@ -79,8 +78,7 @@
       "2021-10-18": 98,
       "2021-10-13": 53,
       "2021-10-12": 538,
-      "2021-10-11": 581,
-      "2021-10-10": 677
+      "2021-10-11": 581
     }
   },
   {
@@ -89,16 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.aurelienooms.be.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "92.87%",
+    "uptime": "92.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.27%",
     "time": 947,
-    "timeDay": 755,
-    "timeWeek": 954,
-    "timeMonth": 1053,
-    "timeYear": 953,
+    "timeDay": 1258,
+    "timeWeek": 961,
+    "timeMonth": 1058,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2022-08-31": 88,
       "2022-08-13": 15,
@@ -116,8 +114,7 @@
       "2021-10-18": 98,
       "2021-10-13": 53,
       "2021-10-12": 538,
-      "2021-10-11": 580,
-      "2021-10-10": 676
+      "2021-10-11": 580
     }
   },
   {
@@ -126,16 +123,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/math.aurelienooms.be.ico",
     "slug": "math-blog",
     "status": "up",
-    "uptime": "92.89%",
+    "uptime": "92.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.23%",
-    "time": 912,
-    "timeDay": 680,
-    "timeWeek": 949,
-    "timeMonth": 1041,
-    "timeYear": 913,
+    "uptimeYear": "99.28%",
+    "time": 913,
+    "timeDay": 1166,
+    "timeWeek": 972,
+    "timeMonth": 1054,
+    "timeYear": 914,
     "dailyMinutesDown": {
       "2022-08-31": 88,
       "2022-07-20": 32,
@@ -151,8 +148,7 @@
       "2021-10-18": 97,
       "2021-10-13": 52,
       "2021-10-12": 538,
-      "2021-10-11": 580,
-      "2021-10-10": 676
+      "2021-10-11": 580
     }
   }
 ]
