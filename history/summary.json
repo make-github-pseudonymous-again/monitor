@@ -11,9 +11,9 @@
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.51%",
     "time": 793,
-    "timeDay": 611,
-    "timeWeek": 771,
-    "timeMonth": 767,
+    "timeDay": 775,
+    "timeWeek": 774,
+    "timeMonth": 772,
     "timeYear": 800,
     "dailyMinutesDown": {
       "2023-02-16": 510,
@@ -32,8 +32,7 @@
       "2022-06-12": 132,
       "2022-05-21": 610,
       "2022-05-16": 31,
-      "2022-04-07": 16,
-      "2022-02-28": 115
+      "2022-04-07": 16
     }
   },
   {
@@ -42,15 +41,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/research.aurelienooms.be.ico",
     "slug": "academic-homepage",
     "status": "up",
-    "uptime": "93.96%",
+    "uptime": "93.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.55%",
-    "time": 1099,
-    "timeDay": 1406,
-    "timeWeek": 1155,
-    "timeMonth": 1159,
+    "time": 1098,
+    "timeDay": 1210,
+    "timeWeek": 1141,
+    "timeMonth": 1172,
     "timeYear": 1116,
     "dailyMinutesDown": {
       "2023-02-16": 510,
@@ -65,8 +64,7 @@
       "2022-07-14": 28,
       "2022-07-08": 15,
       "2022-05-21": 609,
-      "2022-05-16": 30,
-      "2022-02-28": 114
+      "2022-05-16": 30
     }
   },
   {
@@ -75,15 +73,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.aurelienooms.be.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "93.97%",
+    "uptime": "93.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.57%",
     "time": 1038,
-    "timeDay": 825,
-    "timeWeek": 996,
-    "timeMonth": 1058,
+    "timeDay": 1087,
+    "timeWeek": 1001,
+    "timeMonth": 1062,
     "timeYear": 1056,
     "dailyMinutesDown": {
       "2023-02-16": 509,
@@ -95,8 +93,7 @@
       "2022-08-13": 15,
       "2022-07-20": 33,
       "2022-07-17": 15,
-      "2022-05-21": 609,
-      "2022-02-28": 114
+      "2022-05-21": 609
     }
   },
   {
@@ -105,15 +102,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/math.aurelienooms.be.ico",
     "slug": "math-blog",
     "status": "up",
-    "uptime": "93.99%",
+    "uptime": "94.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.59%",
     "time": 952,
-    "timeDay": 965,
-    "timeWeek": 903,
-    "timeMonth": 1036,
+    "timeDay": 784,
+    "timeWeek": 856,
+    "timeMonth": 1022,
     "timeYear": 981,
     "dailyMinutesDown": {
       "2023-02-16": 509,
@@ -121,8 +118,7 @@
       "2023-01-03": 398,
       "2022-08-31": 88,
       "2022-07-20": 32,
-      "2022-05-21": 608,
-      "2022-02-28": 113
+      "2022-05-21": 608
     }
   }
 ]
