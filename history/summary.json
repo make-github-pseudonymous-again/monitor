@@ -11,9 +11,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.74%",
     "time": 825,
-    "timeDay": 1015,
-    "timeWeek": 829,
-    "timeMonth": 1013,
+    "timeDay": 931,
+    "timeWeek": 818,
+    "timeMonth": 1007,
     "timeYear": 829,
     "dailyMinutesDown": {
       "2024-01-31": 21,
@@ -22,8 +22,7 @@
       "2024-01-19": 25,
       "2023-09-28": 160,
       "2023-06-02": 81,
-      "2023-03-13": 525,
-      "2023-02-16": 510
+      "2023-03-13": 525
     }
   },
   {
@@ -38,9 +37,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.74%",
     "time": 1178,
-    "timeDay": 1389,
-    "timeWeek": 1237,
-    "timeMonth": 1157,
+    "timeDay": 1232,
+    "timeWeek": 1166,
+    "timeMonth": 1155,
     "timeYear": 1178,
     "dailyMinutesDown": {
       "2024-01-31": 21,
@@ -49,8 +48,7 @@
       "2024-01-19": 25,
       "2023-09-28": 160,
       "2023-06-02": 81,
-      "2023-03-13": 525,
-      "2023-02-16": 510
+      "2023-03-13": 525
     }
   },
   {
@@ -64,10 +62,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.74%",
-    "time": 1116,
-    "timeDay": 1436,
-    "timeWeek": 1076,
-    "timeMonth": 1064,
+    "time": 1117,
+    "timeDay": 1208,
+    "timeWeek": 1082,
+    "timeMonth": 1054,
     "timeYear": 1090,
     "dailyMinutesDown": {
       "2024-01-31": 20,
@@ -76,8 +74,7 @@
       "2024-01-19": 24,
       "2023-09-28": 159,
       "2023-06-02": 80,
-      "2023-03-13": 524,
-      "2023-02-16": 509
+      "2023-03-13": 524
     }
   },
   {
@@ -86,23 +83,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/math.aurelienooms.be.ico",
     "slug": "math-blog",
     "status": "up",
-    "uptime": "95.74%",
+    "uptime": "95.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.75%",
-    "time": 1013,
-    "timeDay": 1544,
-    "timeWeek": 1202,
-    "timeMonth": 1015,
-    "timeYear": 1004,
+    "time": 1014,
+    "timeDay": 918,
+    "timeWeek": 1103,
+    "timeMonth": 1007,
+    "timeYear": 1001,
     "dailyMinutesDown": {
       "2024-01-31": 20,
       "2024-01-19": 24,
       "2023-09-28": 159,
       "2023-06-02": 80,
-      "2023-03-13": 524,
-      "2023-02-16": 509
+      "2023-03-13": 524
     }
   }
 ]
