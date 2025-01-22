@@ -11,10 +11,10 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "97.60%",
     "time": 832,
-    "timeDay": 720,
-    "timeWeek": 813,
-    "timeMonth": 823,
-    "timeYear": 815,
+    "timeDay": 1132,
+    "timeWeek": 827,
+    "timeMonth": 829,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2024-12-25": 64,
       "2024-12-24": 2,
@@ -37,8 +37,7 @@
       "2024-04-17": 1440,
       "2024-04-16": 831,
       "2024-03-24": 31,
-      "2024-01-31": 21,
-      "2024-01-23": 16
+      "2024-01-31": 21
     }
   },
   {
@@ -47,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/research.aurelienooms.be.ico",
     "slug": "academic-homepage",
     "status": "up",
-    "uptime": "96.11%",
+    "uptime": "96.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.63%",
-    "time": 1166,
-    "timeDay": 1107,
-    "timeWeek": 1224,
-    "timeMonth": 1169,
-    "timeYear": 1146,
+    "time": 1165,
+    "timeDay": 1854,
+    "timeWeek": 1268,
+    "timeMonth": 1182,
+    "timeYear": 1147,
     "dailyMinutesDown": {
       "2024-12-11": 27,
       "2024-11-28": 16,
@@ -73,8 +72,7 @@
       "2024-04-18": 1440,
       "2024-04-17": 1440,
       "2024-04-16": 831,
-      "2024-01-31": 21,
-      "2024-01-23": 16
+      "2024-01-31": 21
     }
   },
   {
@@ -88,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.63%",
-    "time": 1088,
-    "timeDay": 985,
-    "timeWeek": 1184,
-    "timeMonth": 1093,
-    "timeYear": 1070,
+    "time": 1089,
+    "timeDay": 1400,
+    "timeWeek": 1237,
+    "timeMonth": 1089,
+    "timeYear": 1072,
     "dailyMinutesDown": {
       "2024-12-11": 27,
       "2024-11-28": 15,
@@ -109,8 +107,7 @@
       "2024-04-18": 1440,
       "2024-04-17": 1440,
       "2024-04-16": 830,
-      "2024-01-31": 20,
-      "2024-01-23": 15
+      "2024-01-31": 20
     }
   },
   {
@@ -119,16 +116,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/math.aurelienooms.be.ico",
     "slug": "math-blog",
     "status": "up",
-    "uptime": "96.13%",
+    "uptime": "96.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.64%",
-    "time": 1025,
-    "timeDay": 845,
-    "timeWeek": 1052,
+    "time": 1026,
+    "timeDay": 1293,
+    "timeWeek": 1049,
     "timeMonth": 1023,
-    "timeYear": 1028,
+    "timeYear": 1029,
     "dailyMinutesDown": {
       "2024-12-11": 27,
       "2024-11-27": 502,
