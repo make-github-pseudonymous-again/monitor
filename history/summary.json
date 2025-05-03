@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.82%",
-    "time": 841,
-    "timeDay": 642,
-    "timeWeek": 772,
+    "uptimeYear": "99.09%",
+    "time": 840,
+    "timeDay": 629,
+    "timeWeek": 757,
     "timeMonth": 827,
-    "timeYear": 823,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2025-03-20": 16,
       "2025-03-12": 18,
@@ -29,8 +29,7 @@
       "2024-11-20": 526,
       "2024-08-27": 15,
       "2024-07-03": 19,
-      "2024-05-04": 955,
-      "2024-05-03": 1440
+      "2024-05-04": 955
     }
   },
   {
@@ -39,15 +38,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/research.aurelienooms.be.ico",
     "slug": "academic-homepage",
     "status": "up",
-    "uptime": "96.35%",
+    "uptime": "96.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "99.12%",
     "time": 1158,
-    "timeDay": 840,
-    "timeWeek": 1238,
-    "timeMonth": 1188,
+    "timeDay": 979,
+    "timeWeek": 1193,
+    "timeMonth": 1191,
     "timeYear": 1153,
     "dailyMinutesDown": {
       "2025-03-20": 15,
@@ -58,8 +57,7 @@
       "2024-11-26": 990,
       "2024-11-21": 229,
       "2024-11-20": 526,
-      "2024-05-04": 955,
-      "2024-05-03": 1440
+      "2024-05-04": 955
     }
   },
   {
@@ -72,11 +70,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.85%",
-    "time": 1078,
-    "timeDay": 1079,
-    "timeWeek": 1103,
-    "timeMonth": 1146,
+    "uptimeYear": "99.12%",
+    "time": 1077,
+    "timeDay": 1030,
+    "timeWeek": 1085,
+    "timeMonth": 1148,
     "timeYear": 1083,
     "dailyMinutesDown": {
       "2025-03-06": 27,
@@ -86,8 +84,7 @@
       "2024-11-26": 990,
       "2024-11-21": 229,
       "2024-11-20": 525,
-      "2024-05-04": 955,
-      "2024-05-03": 1440
+      "2024-05-04": 955
     }
   },
   {
@@ -96,15 +93,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/math.aurelienooms.be.ico",
     "slug": "math-blog",
     "status": "up",
-    "uptime": "96.37%",
+    "uptime": "96.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "99.13%",
     "time": 1034,
-    "timeDay": 821,
-    "timeWeek": 1088,
-    "timeMonth": 1125,
+    "timeDay": 951,
+    "timeWeek": 1095,
+    "timeMonth": 1130,
     "timeYear": 1042,
     "dailyMinutesDown": {
       "2025-03-06": 26,
@@ -113,8 +110,7 @@
       "2024-11-26": 989,
       "2024-11-21": 229,
       "2024-11-20": 525,
-      "2024-05-04": 955,
-      "2024-05-03": 1440
+      "2024-05-04": 955
     }
   }
 ]
